@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7 12 196 72" width="784" height="288" role="img" aria-label="SOE, Solution of Everything">
+<title>SOE</title>
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="200" y2="0">
+<stop offset="0" stop-color="#2D5BFF"/>
+<stop offset="0.55" stop-color="#7A3CFF"/>
+<stop offset="1" stop-color="#FF6B1F"/>
+</linearGradient>
+</defs>
+<g fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round">
+<path d="M41.3 28.5 A13 13 0 1 0 30 48 A13 13 0 1 1 18.7 67.5"/>
+<circle cx="96" cy="48" r="26"/>
+</g>
+<g fill="url(#g)">
+<rect x="118" y="43" width="82" height="10" rx="2.5"/>
+<rect x="150" y="43" width="10" height="36" rx="2.5"/>
+<rect x="170" y="43" width="10" height="26" rx="2.5"/>
+<rect x="190" y="43" width="10" height="36" rx="2.5"/>
+</g>
+<path transform="translate(96 48) scale(0.95)" fill="#FF6B1F" d="M0 -14 C1.5 -5 5 -1.5 14 0 C5 1.5 1.5 5 0 14 C-1.5 5 -5 1.5 -14 0 C-5 -1.5 -1.5 -5 0 -14 Z"/>
+</svg>
